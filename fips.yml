@@ -6,7 +6,8 @@ policies:
   no_auto_import: true
 imports:
   sokol:
-    git: https://github.com/floooh/sokol
+    git: https://github.com/stbachmann/sokol
+    branch: multi-window-support
   sokol-tools-bin:
     git: https://github.com/floooh/sokol-tools-bin
   fips-glfw:
